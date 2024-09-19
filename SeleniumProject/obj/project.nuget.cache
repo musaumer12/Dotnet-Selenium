@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kJldvs9vW4A=",
+  "success": true,
+  "projectFilePath": "/Users/dev/Documents/Projects/TestProject/SeleniumProject/SeleniumProject.csproj",
+  "expectedPackageFiles": [
+    "/Users/dev/.nuget/packages/selenium.webdriver/4.24.0/selenium.webdriver.4.24.0.nupkg.sha512",
+    "/Users/dev/.nuget/packages/selenium.webdriver.chromedriver/129.0.6668.5800/selenium.webdriver.chromedriver.129.0.6668.5800.nupkg.sha512"
+  ],
+  "logs": []
+}
